@@ -75,7 +75,7 @@
     "qs": "6.11.0",
     "react": "18.2.0",
     "react-i18next": "14.1.0",
-    "react-native": "0.73.6",
+    "react-native": "0.76.0",
     "react-native-appsflyer": "6.13.1",
     "react-native-device-info": "10.0.2",
     "react-native-gesture-handler": "2.19.0",
