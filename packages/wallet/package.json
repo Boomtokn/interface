@@ -60,7 +60,7 @@
     "redux-saga-test-plan": "4.0.4",
     "typed-redux-saga": "1.5.0",
     "ui": "workspace:^",
-    "uniswap": "workspace:^",
+    "uniswap": "0.0.1",
     "utilities": "workspace:^",
     "zod": "3.22.4",
     "zxcvbn": "4.4.2"
